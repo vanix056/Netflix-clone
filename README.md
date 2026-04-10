@@ -28,7 +28,7 @@ No build tools or package managers are required.
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/vanix056/Netflix-clone.git
+git clone https://github.com/MAbdullahWaqar/Netflix-clone.git
 
 # 2. Navigate into the project directory
 cd Netflix-clone
@@ -113,5 +113,5 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ## Author
 
-**vanix056**  
-GitHub: [@vanix056](https://github.com/vanix056)
+**MAbdullahWaqar**  
+GitHub: [@MAbdullahWaqar](https://github.com/MAbdullahWaqar)
