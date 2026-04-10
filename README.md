@@ -113,5 +113,5 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ## Author
 
-**MAbdullahWaqar**  
+**Muhammad Abdullah Waqar**  
 GitHub: [@MAbdullahWaqar](https://github.com/MAbdullahWaqar)
